@@ -8,23 +8,23 @@ body {
     background-color: #d9dcd6;
 }
 /* Sets header padding to 20px. Sets background color for header, sets text color in header, and font style. */
-.header {
+.resorce {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 /* Sets links in line with header, sets font-size of corp name to 48px*/
-.header h1 {
+.resorce h1 {
     display: inline-block;
     font-size: 48px;
 }
 /* Changes color for seo in corp name header*/
-.header h1 .seo {
+.resorce h1 .seo {
     color: #d9dcd6;
 }
 /* Sets padding above links in header 15px, sets header margin on right 15px, float moves links to the right, sets font family for links in header, sets links font size to 20px.   */
-.header header {
+.resorce nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 /* Sets list style type to none */
-.header header ul {
+.resorce nav ul {
     list-style-type: none;
 }
 /* Sets header Links in horizontal line, sets margin on left side of links. */
-.header header ul li {
+.resorce nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
